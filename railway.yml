@@ -1,0 +1,9 @@
+version: "1.0"
+services:
+  web:
+    build: .
+    env:
+      NODE_ENV: production
+    command: npm run serve
+    ports:
+      - 8080
