@@ -4,6 +4,6 @@ services:
     build: .
     env:
       NODE_ENV: production
-    command: npm run serve
+    command: npm run serve --disable-host-check
     ports:
       - 8080
