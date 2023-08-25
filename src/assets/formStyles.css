@@ -1,0 +1,38 @@
+input[type="text"],
+input[type="password"],
+select,
+option,
+textarea {
+  border: 1px solid var(--gray5);
+  border-radius: 4px;
+  padding: 8px;
+  outline: none;
+}
+input[type="text"],
+input[type="password"],
+select {
+  height: 38px;
+}
+input[type="text"],
+input[type="password"],
+select,
+textarea {
+  width: 100%;
+}
+
+textarea {
+  resize: none;
+  height: 110px;
+}
+/**EFFECTS **/
+input[type="text"]:focus,
+input[type="password"]:focus,
+select:focus,
+option:focus,
+textarea:focus {
+  border-color: var(--focus1);
+  box-shadow: 0 0 1px 3px var(--focus2);
+}
+p {
+  user-select: none;
+}

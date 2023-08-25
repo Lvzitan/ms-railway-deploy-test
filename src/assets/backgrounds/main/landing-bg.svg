@@ -1,0 +1,28 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_98)">
+<rect width="1920" height="1080" fill="url(#paint0_linear_1_98)"/>
+<g filter="url(#filter0_f_1_98)">
+<circle cx="1653" cy="-408" r="755" fill="#152243"/>
+</g>
+<path d="M1999.42 1105.65C1847.06 1092.9 1529.12 1043.41 1476.24 947.414C1410.13 827.422 2073.13 440.868 1849.05 266.185C1669.79 126.439 1095.4 -4.38825 809.885 -56.4255" stroke="#41B6E8" stroke-opacity="0.2" stroke-width="3" stroke-linecap="round"/>
+<path d="M2007.96 1008.24C1855.04 995.449 1535.93 945.772 1482.84 849.425C1416.49 728.99 2081.94 341.01 1857.04 165.682C1677.11 25.4201 1587.63 54.4081 1301.06 2.17875" stroke="#41B6E8" stroke-opacity="0.2" stroke-width="3" stroke-linecap="round"/>
+<path d="M2234.32 498.238C2044.07 479.079 1646.58 410.4 1578.63 288.956C1493.69 137.151 2198.51 -377.716 1915.45 -601.379" stroke="#41B6E8" stroke-opacity="0.2" stroke-width="3" stroke-linecap="round"/>
+<path d="M-34.4075 64.0913C118.482 64.6997 439.346 88.7888 499.691 180.279C575.122 294.642 -55.0902 732.627 182.152 888.963C371.945 1014.03 954.911 1098.83 1243.66 1128.03" stroke="#41B6E8" stroke-opacity="0.2" stroke-width="3" stroke-linecap="round"/>
+<path d="M-35.1828 161.867C118.271 162.477 440.319 186.655 500.886 278.483C576.596 393.268 -55.9418 832.869 182.176 989.782C372.669 1115.31 459.572 1079.31 749.383 1108.62" stroke="#41B6E8" stroke-opacity="0.2" stroke-width="3" stroke-linecap="round"/>
+<path d="M-220.323 688.238C-29.154 692.228 372.529 729.124 449.91 844.788C546.637 989.369 -115.065 1558.58 184.859 1759.06" stroke="#41B6E8" stroke-opacity="0.2" stroke-width="3" stroke-linecap="round"/>
+</g>
+<defs>
+<filter id="filter0_f_1_98" x="496" y="-1565" width="2314" height="2314" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="201" result="effect1_foregroundBlur_1_98"/>
+</filter>
+<linearGradient id="paint0_linear_1_98" x1="598" y1="80.0002" x2="5852" y2="4930" gradientUnits="userSpaceOnUse">
+<stop stop-color="#152243"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<clipPath id="clip0_1_98">
+<rect width="1920" height="1080" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,284 @@
+/* ======= CSS GERAL ======= */
+
+i {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  transition: 150ms ease;
+}
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  border-radius: 50%;
+}
+.icon svg {
+  transform: scale(0.9);
+  transition: 0.25s;
+}
+.icon:hover svg {
+  transform: scale(1.05);
+}
+.i-logo {
+  background-image: url("./icons/logo.svg");
+}
+/* ======= Sidenav ======= */
+/* *** Mscope ** */
+.i-Dashboard {
+  background-image: url("./icons/sidenav/dashboard.svg");
+}
+.i-Lifecycle {
+  background-image: url("./icons/sidenav/lifecycle.svg");
+}
+.i-Agents {
+  background-image: url("./icons/sidenav/agents.svg");
+}
+.i-Squads {
+  background-image: url("./icons/sidenav/squads.svg");
+}
+.i-Tasks {
+  background-image: url("./icons/sidenav/tasks.svg");
+}
+.i-Elements {
+  background-image: url("./icons/sidenav/elements.svg");
+}
+.i-Deliverables {
+  background-image: url("./icons/sidenav/deliverables.svg");
+}
+.i-MScope {
+  background-image: url("./icons/sidenav/mscope.svg");
+}
+.i-MSight {
+  background-image: url("./icons/sidenav/msight.svg");
+}
+.i-MSource {
+  background-image: url("./icons/sidenav/msource.svg");
+}
+.i-toggler {
+  background-image: url("./icons/sidenav/toggler.svg");
+}
+
+/* *** MSight *** */
+.i-Load {
+  background-image: url("./icons/sidenav/msight/play.svg");
+}
+
+/* *** MScope *** */
+.i-Overview {
+  background-image: url("./icons/msource/Overview.svg");
+}
+.i-Generate_Document {
+  background-image: url("./icons/msource/Generate_Document.svg");
+}
+.i-Workflows {
+  background-image: url("./icons/msource/Workflows.svg");
+}
+.i-Information_Request {
+  background-image: url("./icons/msource/Information_Request.svg");
+}
+.i-Labels {
+  background-image: url("./icons/msource/Labels.svg");
+}
+.i-Nonconforming {
+  background-image: url("./icons/msource/Non_Conforming.svg");
+}
+.i-Upload {
+  background-image: url("./icons/msource/Upload.svg");
+}
+
+/* ======= MISC ======= */
+.i-brickwall {
+  background-image: url("./icons/miscellaneous/brick-wall.svg");
+}
+.i-pin {
+  background-image: url("./icons/miscellaneous/pin.svg");
+}
+.i-ruler {
+  background-image: url("./icons/miscellaneous/ruler.svg");
+}
+.i-arrow-dropdown {
+  background-image: url("./icons/miscellaneous/arrow-dropdown.svg");
+}
+.i-search {
+  background-image: url("./icons/miscellaneous/search.svg");
+}
+.i-plus {
+  background-image: url("./icons/miscellaneous/plus.svg");
+}
+.i-envelope {
+  background-image: url("./icons/miscellaneous/envelope.svg");
+}
+.i-back-nav {
+  background-image: url("./icons/miscellaneous/back-nav.svg");
+}
+.i-stack {
+  background-image: url("./icons/miscellaneous/stack.svg");
+}
+.i-close {
+  background-image: url("./icons/miscellaneous/close.svg");
+}
+.i-trash {
+  background-image: url("./icons/miscellaneous/trash.svg");
+}
+.i-hierarchy {
+  background-image: url("./icons/miscellaneous/hierarchy.svg");
+}
+.i-edit {
+  background-image: url("./icons/miscellaneous/edit.svg");
+}
+.i-specify {
+  background-image: url("./icons/miscellaneous/specify.svg");
+}
+.i-link {
+  background-image: url("./icons/miscellaneous/link.svg");
+}
+.i-checkbox-menu-toggler {
+  background-image: url("./icons/miscellaneous/checkbox-menu-toggler.svg");
+}
+.i-upload-pic {
+  background-image: url("./icons/miscellaneous/upload-pic.svg");
+}
+.i-list {
+  background-image: url("./icons/miscellaneous/list.svg");
+}
+.i-grid {
+  background-image: url("./icons/miscellaneous/grid.svg");
+}
+.i-single-file {
+  background-image: url("./icons/miscellaneous/single-file.svg");
+}
+.i-multiple-files {
+  background-image: url("./icons/miscellaneous/multiple-files.svg");
+}
+
+/*===== BADGES =====*/
+.i-badge-approved {
+  background-image: url("./icons/badges/approved.svg");
+}
+.i-badge-error {
+  background-image: url("./icons/badges/error.svg");
+}
+.i-badge-point {
+  background-image: url("./icons/badges/point.svg");
+}
+.i-badge-refresh {
+  background-image: url("./icons/badges/refresh.svg");
+}
+.i-badge-waiting {
+  background-image: url("./icons/badges/waiting.svg");
+}
+.i-badge-warning {
+  background-image: url("./icons/badges/warning.svg");
+}
+
+/* ======= LANDING PAGE ======= */
+.i-base-ms {
+  background-image: url("./icons/home/base-ms.svg");
+}
+.i-button-box {
+  background-image: url("./icons/home/button-box.svg");
+}
+.i-button-eye {
+  background-image: url("./icons/home/button-eye.svg");
+}
+.i-button-source {
+  background-image: url("./icons/home/button-source.svg");
+}
+.i-line {
+  background-image: url("./icons/home/line.svg");
+}
+
+/* ======= TOPNAV ======= */
+.i-user-dropdown {
+  background-image: url("./icons/topnav/user-dropdown/user-dropdown.svg");
+}
+.i-gb-dropdown {
+  background-image: url("./icons/topnav/user-dropdown/gb-dropdown.svg");
+}
+.i-logout-dropdown {
+  background-image: url("./icons/topnav/user-dropdown/logout-dropdown.svg");
+}
+.i-settings-dropdown {
+  background-image: url("./icons/topnav/user-dropdown/settings-dropdown.svg");
+}
+.i-support-dropdown {
+  background-image: url("./icons/topnav/user-dropdown/support-dropdown.svg");
+}
+.i-organization-dropdown {
+  background-image: url("./icons/topnav/user-dropdown/organization-dropdown.svg");
+}
+
+/* ===== BADGES =====*/
+.i-bell {
+  background-image: url("./icons/badges/bell.svg");
+}
+
+/* ===== ARROOWS =====*/
+.i-arrow-right {
+  background-image: url("./icons/arrows/arrow-right.svg");
+}
+.i-arrow-open-down {
+  background-image: url("./icons/arrows/arrow-open-down.svg");
+}
+.i-arrow-up-success {
+  background-image: url("./icons/arrows/arrow-up-success.svg");
+}
+.i-arrow-down-fail {
+  background-image: url("./icons/arrows/arrow-down-fail.svg");
+}
+
+/* ===== FILES =====*/
+.i-pdf {
+  background-image: url("./icons/files/pdf.svg");
+}
+.i-bcf {
+  background-image: url("./icons/files/bcf.svg");
+}
+.i-bmp {
+  background-image: url("./icons/files/bmp.svg");
+}
+.i-csv {
+  background-image: url("./icons/files/csv.svg");
+}
+.i-doc {
+  background-image: url("./icons/files/doc.svg");
+}
+.i-dwg {
+  background-image: url("./icons/files/dwg.svg");
+}
+.i-ifc {
+  background-image: url("./icons/files/ifc.svg");
+}
+.i-jpg {
+  background-image: url("./icons/files/jpg.svg");
+}
+.i-png {
+  background-image: url("./icons/files/png.svg");
+}
+.i-ppt {
+  background-image: url("./icons/files/ppt.svg");
+}
+.i-rar {
+  background-image: url("./icons/files/rar.svg");
+}
+.i-rvt {
+  background-image: url("./icons/files/rvt.svg");
+}
+.i-txt {
+  background-image: url("./icons/files/txt.svg");
+}
+.i-xml {
+  background-image: url("./icons/files/xml.svg");
+}
+.i-xls {
+  background-image: url("./icons/files/xls.svg");
+}
+.i-zip {
+  background-image: url("./icons/files/zip.svg");
+}
